@@ -13,7 +13,7 @@
     "gatsby": "^2.3.22",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "gatsby-plugin-typography": "^2.2.13",
-    "gatsby-remark-prismjs": "^3.2.6",
+    "gatsby-remark-prismjs": "^3.2.8",
     "gatsby-source-filesystem": "^2.0.28",
     "gatsby-transformer-remark": "^2.3.8",
     "lodash": "^4.17.11",
