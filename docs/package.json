@@ -15,7 +15,7 @@
     "gatsby-plugin-typography": "^2.2.13",
     "gatsby-remark-prismjs": "^3.2.8",
     "gatsby-source-filesystem": "^2.0.31",
-    "gatsby-transformer-remark": "^2.3.8",
+    "gatsby-transformer-remark": "^2.3.10",
     "lodash": "^4.17.11",
     "marked": "^0.7.0",
     "prismjs": "^1.16.0",
